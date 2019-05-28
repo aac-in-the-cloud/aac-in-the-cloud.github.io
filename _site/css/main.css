@@ -843,6 +843,10 @@ body.is-mobile .backpic { background-attachment: scroll; }
 
 .clean_links a { border-bottom: 0; }
 
+.content.dual .left { width: 50%; float: left; }
+.content.dual .right { width: 50%; float: right; }
+
+@media (max-width: 1150px) { .content.dual .left, .content.dual .right { width: 100%; } }
 @media (min-width: 950px) { .spotlight.with_video { display: block; }
   .spotlight.with_video .image { float: right; margin-left: 15px; margin-bottom: 10px; width: 550px; }
   .spotlight.with_video .content { display: inline; padding: 0; } }
