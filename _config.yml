@@ -4,12 +4,12 @@
 # Site settings
 title: AAC in the Cloud
 description: |
-  The Power of One<br/>
-  June 20-21, 2023<br/>
-  sponsored by CoughDrop
-owner: CoughDrop, Inc. # or company name
+  The Future of AAC<br/>
+  July 29-30, 2025<br/>
+  sponsored by OpenAAC & Forbes
+owner: OpenAAC # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
-email: info@coughdrop.com
+email: info@openaac.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.aacconference.com" # the base hostname & protocol for your site
 social:
