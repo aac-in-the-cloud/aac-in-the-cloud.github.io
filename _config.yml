@@ -3,7 +3,8 @@
 
 # Site settings
 title: AAC in the Cloud
-description: |
+description: The Future of AAC, July 29-30, 2025
+html_description: |
   The Future of AAC<br/>
   July 29-30, 2025<br/>
   sponsored by OpenAAC & Forbes
@@ -18,7 +19,7 @@ social:
   #email: /contact/
   #flickr:
   #instagram:
-  youtube-square: https://www.youtube.com/c/myCoughDropAAC
+  youtube-square: https://presenters.aacconference.com/
   #spotify:
   #stack-overflow:
   #vimeo:

@@ -2,14 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AAC in the Cloud</title>
-    <description>The Future of AAC&lt;br/&gt;
-July 29-30, 2025&lt;br/&gt;
-sponsored by OpenAAC &amp; Forbes
-</description>
+    <description>The Future of AAC, July 29-30, 2025</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jun 2025 17:50:40 -0600</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 17:50:40 -0600</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 16:25:35 -0600</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 16:25:35 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
   </channel>
